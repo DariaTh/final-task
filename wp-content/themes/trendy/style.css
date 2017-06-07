@@ -1,0 +1,97 @@
+/*
+Theme Name: Trendy
+Theme URI: http://wordpress.org.ua
+Author: Daria Thoruk
+Author URI: http://wordpress.org.ua
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: trendy
+
+*/
+
+body {
+	margin: 0;
+}
+a {
+	background-color: transparent;
+}
+
+
+.navbar{
+   padding-top: 20px; 
+}
+.navbar .navbar-nav > li > a{
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(197, 153, 102);
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.navbar .navbar-nav > li > a:hover,
+.navbar .navbar-nav > li > a:focus {
+    background-color: black;
+    color: rgb(197, 153, 102);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+}
+.header_d{
+   margin-top: 100px;
+}
+.desc {  
+  font-size: 128px;
+  font-family: "BebasNeue";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+
+}
+.line {
+  background-color: rgb(198, 155, 110);
+  left: 715px;
+  top: 413px;
+  width: 170px;
+  height: 4px;
+  margin: 0 auto;
+  
+}
+.tagline {
+  font-size: 16px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+}
+
+.scroll {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(255, 255, 255);
+  font-size: 32px;
+  font-family: "FontAwesome";
+  color: rgb(198, 155, 110);
+  line-height: 1.2;
+  margin: 0 auto;
+  width: 42px;
+  height: 42px;
+  margin-top: 200px; 
+  text-align: center;
+}
+.title {
+  font-size: 56px;
+  font-family: "BebasNeue";
+  color: rgb(26, 25, 24);
+  line-height: 1.2;
+  text-align: center;
+
+}
+
+
+
+
+
+
+
